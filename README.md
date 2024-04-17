@@ -21,3 +21,8 @@ The World Bank Datasets Project aims to analyze and derive insights from various
 ### Seaborn is a Python visualization library based on Matplotlib, providing a high-level interface for drawing attractive statistical graphics.
 ## scikit-learn (sklearn):
 ### scikit-learn is a machine learning library in Python, providing simple and efficient tools for data mining and data analysis.
+
+![Screenshot 2024-04-17 193257](https://github.com/Mrprajapati18/World_Bank_dataset/assets/143236347/43f161e5-bacc-4dc5-8018-5c3c8e29340c)
+![Screenshot 2024-04-17 193328](https://github.com/Mrprajapati18/World_Bank_dataset/assets/143236347/ccf60e94-c8ba-4511-a0f4-974fd123ecb7)
+![Screenshot 2024-04-17 193445](https://github.com/Mrprajapati18/World_Bank_dataset/assets/143236347/ed998a05-cb49-41a1-9c2b-96ee984058c9)
+
